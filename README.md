@@ -24,5 +24,4 @@ Go to http://localhost:8080
 
 Make some changes in App.jsx and see the updates right away in the browser.
 
-Follow the tutorials at tutorialspoint.com and kirupa.com
-
+Follow the tutorials at https://www.tutorialspoint.com/reactjs/index.htm and https://www.kirupa.com/react/
